@@ -1,0 +1,45 @@
+_repo: Sanitation-in-Panama_70624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gorgas, William Crawford
+    alias: Gorgas, W. C. (William Crawford)
+    birthdate: 1854
+    deathdate: 1920
+    gutenberg_agent_id: '55831'
+    url: http://www.gutenberg.org/2009/agents/55831
+    wikipedia: https://en.wikipedia.org/wiki/William_C._Gorgas
+description: ''
+gutenberg_issued: '2023-04-22'
+identifiers:
+  gutenberg: '70624'
+  lccn: '15014771'
+language: en
+pgterms:marc904: https://archive.org/details/b21359908
+pgterms:marc905: 20220501134654gorgas
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanitation -- Panama'
+- !lcsh 'Sanitation -- Cuba -- Havana'
+- !lcsh 'Yellow fever -- Cuba -- Havana'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: Yellow fever and the discoveries of its transmission -- The experiments
+  of the Reed board -- The discoveries of the Reed board -- The sanitary board of
+  Havana -- The results accomplished in Havana -- Correspondence with Dr. Reed --
+  History of yellow fever -- Appointed chief sanitary officer for the Isthmus -- Preliminary
+  organization and work at Panama -- Yellow-fever work at the Isthmus -- Nombre de
+  Dios -- The work of the sanitary inspectors -- The work at the hospitals -- Malaria
+  work and the hospital system -- Medical and surgical service of Ancon hospital --
+  The sanitarium at Taboga -- The leper colony -- Quarantine system -- Measures against
+  bubonic plague -- The work of the sanitary department of Panama.
+title: Sanitation in Panama
+url: http://www.gutenberg.org/ebooks/70624
