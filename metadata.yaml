@@ -1,5 +1,8 @@
 _repo: Sanitation-in-Panama_70624
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70624-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorgas, William Crawford
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55831
     wikipedia: https://en.wikipedia.org/wiki/William_C._Gorgas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70624#Sanitation-in-Panama
 gutenberg_issued: '2023-04-22'
 identifiers:
   gutenberg: '70624'
